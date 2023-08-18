@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Kanit:wght@200&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: chocolate;
+    font-family: 'Kanit', sans-serif;
+}
+
+.inicio{
+    background-image: url("../img/chocolate.jpg");
+    margin: 20px;
+    height: 150px;
+    
+}
+
+.titulo{
+    background-color: rgba(240, 248, 255, 0);
+    color: rgb(240, 248, 255);
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.subtitulo{
+    background-color: rgba(240, 248, 255, 0);
+    color: rgb(255, 228, 196);
+    font-weight: bold;
+    text-align: center;
+}
+
+.secao{
+    padding: 20px;
+    margin:20px;
+}
+
+.rodape{
+    padding: 20px;
+    margin:20px;
+    text-align: center;
+}
+
+.principal{
+    padding: 20px;
+    margin:20px;
+    text-align: center;
+}
+
+img {
+    height: 300px;
+}
